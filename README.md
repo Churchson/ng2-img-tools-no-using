@@ -100,3 +100,6 @@ Method that returns an image respecting the EXIF orientation data.
 ## Contribute / Limitations
 Contributions to improve this toolkit are most welcome especially to find the best possible alghoritms.
 Please check out <a href="https://github.com/bergben/ng2-img-max">ng2-img-max</a> to read about the limitations and the current algorithm regarding maximal filesize.
+
+# Churchson change
+    "ng2-img-max": "^2.1.15" to  "ng2-img-max": "2.1.15"
